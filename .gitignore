@@ -1,0 +1,15 @@
+# Power BI temp files
+*.pbix.bak
+*.pbit
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Excel temp
+~$*.xlsx
+~$*.xls
+
+# Large files (upload separately if needed)
+# Bookings-20000-Rows-July.csv
